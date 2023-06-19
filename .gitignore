@@ -1,0 +1,10 @@
+# Files and folders to ignore
+.DS_Store
+Pipfile*
+
+# 1. intermediate files
+*.o
+*.d
+
+
+# 2. Build files
